@@ -1,0 +1,6 @@
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\bin\Debug\wmi.exe.config
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\bin\Debug\wmi.exe
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\bin\Debug\wmi.pdb
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\obj\Debug\wmi.csprojResolveAssemblyReference.cache
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\obj\Debug\wmi.exe
+C:\Users\steven.a.chan\Documents\wmi\wmi\wmi\obj\Debug\wmi.pdb
